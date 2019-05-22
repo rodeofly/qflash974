@@ -1,0 +1,143 @@
+{  
+   "Nombres & Calculs":{  
+      "classe":"NC",
+      "citation":"Chinoi la la pa bien rende a moin la monai",
+      "attendus":{  
+         "Utiliser et représenter les nombres":{  
+            "domaine":"D1",
+            "notions":{  
+               "Entiers":{  
+                  "Composer & décomposer les nombres entiers":1,
+                  "Appliquer les règles de la numération aux grands nombres":1,
+                  "Comparer, ranger, encadrer & repérer les entiers":1
+               },
+               "Fractions":{  
+                  "Manipuler les fractions simples":1,
+                  "Utiliser une demi-droite graduée ":2,
+                  "Encadrer une fraction par deux entiers consécutifs":2,
+                  "Établir des égalités entre fractions simples":3
+               },
+               "Nombre décimal":{  
+                  "Comprendre et utiliser la notion de nombre décimal, et %":2,
+                  "Associer diverses représentations d'un nombre décimal":2,
+                  "Demi-droite graduée":2,
+                  "Comparer, ranger, encadrer, intercaler":3
+               }
+            }
+         },
+         "Calculer avec entiers & décimaux":{  
+            "domaine":"D1",
+            "notions":{  
+               "Techniques de calculs":{  
+                  "Mémoriser des procédures élémentaires de calcul":1,
+                  "Elaborer des stratégies de calcul":2,
+                  "Vérifier la vraisemblance d'un résultat (ordre de grandeur)":3,
+                  "Calculer mentalentalement (résultat exact ou approché)":3,
+                  "calcul en ligne (avec ou sans parenthèses)":3,
+                  "calcul posé (algorithme)":2
+               }
+            }
+         },
+         "Résoudre des problèmes":{  
+            "domaine":"D4",
+            "notions":{  
+               "Problèmes simples":{  
+                  "Situations mettant en jeu les 4 opérations":1,
+                  "Prélever des données et les organiser dans un support":2,
+                  "Exploiter et communiquer des résultats de mesure":3
+               }
+            }
+         }
+      }
+   },
+   "Grandeurs & mesures":{  
+      "classe":"GM",
+      "citation":"Meziré y kass pa le bra",
+      "attendus":{  
+         "Comparer, estimer & mesurer":{  
+            "domaine":"D5",
+            "notions":{  
+               "Périmètres":{  
+                  "Comparer des périmètres avec ou sans recours à la mesure":1,
+                  "Mesurer des périmètres en reportant des unités ou une formule":1},
+               "Aires":{  
+                 "Comparer, classer des surfaces, suivant leurs aires (sans formule)":1,
+                 "Différencier aire et périmètre":2,
+                 "Déterminer une aire par un pavage ou une formule":2,
+                 "Estimer une aire par différentes procédures":2
+                },
+                "Volumes":{  
+                   "Relier les unités de volume avec leur contenance":2,
+                   "Estimer un volume avec différentes procédures":3,
+                   "Déterminer le volume d'un pavé droit, dénombrement ou formule":3
+                },
+                "Angles":{  
+                   "Identifier des angles dans une figure géométrique":2,
+                   "Comparer des angles":2,
+                   "Reproduire un angle avec un gabarit":2,
+                   "Reconnaître un angle droit, aigu, obtu":2,
+                   "Estimer la mesure d’un angle":3,
+                   "Utiliser un instrument de mesure et une unité de mesure":3
+                  }
+               }
+            },
+            "Résoudre des problèmes":{  
+               "domaine":"D5",
+               "notions":{  
+                  "Résoudre des problèmes":{  
+                     "Problème de comparaison avec ou sans mesure":2,
+                     "Problème dont la résolution utilise unités et conversions":3,
+                     "Problème avec des formules d'aires et de volumes":3
+                  },
+                  "Les durées":{  
+                     "Calculer la durée entre 2 instants":2
+                  },
+                  "Déterminer un instant":{ 
+                     "determiner un instant final": 2,
+                     "determiner un instant initial": 2   
+                  }
+               }
+            }
+         }
+      },
+      "Espace et géométrie":{  
+         "classe":"EG",
+         "citation":"Meziré y kass pa le bra",
+         "attendus":{  
+            "Se repérer et se déplacer dans l’espace":{  
+               "domaine":"D5",
+               "notions":{  
+                  "Déplacements":{  
+                     "Se repérer sur un plan, une carte, un croquis":2,
+                     "décrire, coder un trajet":2,
+                     "Programmer la trajectoire d'un mobile":3
+                  }
+               }
+            },
+            "Connaitre des figures géométriques":{  
+               "domaine":"D5",
+               "notions":{  
+                  "Figure 2D et 3D":{  
+                     "Reconnaître, comparer, décrire":2,
+                     "Reproduire, représenter":2,
+                     "Réaliser, compléter, rédiger un programme de construction":3,
+                     "Réalisation numérique d'une figure":3
+                  }
+               }
+            },
+            "Connaitre des relations géométriques":{  
+               "domaine":"D5",
+               "notions":{  
+                  "Tracés":{  
+                     "Perpendicularité ou  parallélisme de droites et de segments":2,
+                     "Déterminer le plus court chemin entre deux points":2,
+                     "Déterminer le plus court chemin entre deux droites parallèles":3,
+                     "Compléter une figure par symétrie axiale":2,
+                     "Construire la figure symétrique d’une fgure donnée":2,
+                     "Reproduire une figure à l'échelle":3
+                  }
+               }
+            }
+         }
+      }
+   }

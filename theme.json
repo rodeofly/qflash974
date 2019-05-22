@@ -1,0 +1,123 @@
+{  
+   "Nombres & Calculs":{  
+      "classe":"NC",
+      "citation":"Chinoi la la pa bien rende a moin la monai",
+      "attendus":{  
+         "Utiliser et représenter les nombres(N;D;Q)":{  
+            "domaine":"D1",
+            "notions":{  
+               "Entiers":{  
+                  "Composer, décomposer, les grands nombres entiers":1,
+                  "Comparer, encadrer ,repérer les nombres entiers":1
+               },
+               "Fractions":{  
+                  "Comprendre et utiliser la notion de fraction simple":1,
+                  "Encadrer une fraction par deux entiers consécutifs":2,
+                  "Établir des égalités entre fractions simples":3
+               },
+               "Nombre décimal":{  
+                  "Maîtriser l’équivalence, fraction décimale = nombre décimal":1,
+                  "Comprendre et utiliser la notion de nombre décimal, et %":2,
+                  "Comparer, encadrer ,repérer les nombres décimaux":3
+               }
+            }
+         },
+         "Calculer avec des entiers et des décimaux":{  
+            "domaine":"D1",
+            "notions":{  
+               "Techniques de calculs et ordre de grandeur d’un résultat":{  
+                  "Avec des entiers":1,
+                  "Avec des décimaux au centièmes":2,
+                  "Avec des expressions utilisant des parenthèses":3,
+                  "Critère de divisibilité":3
+               },
+               "Réussir un calcul posé":{  
+                  "Addition, soustraction, multiplication entre entiers":1,
+                  "Division d’un entier par un entier à un chiffre":2,
+                  "Addition, soustraction, multiplication entre décimaux":3,
+                  "Division d’un décimal par un entier":3
+               }
+            }
+         },
+         "Résoudre des problèmes":{  
+            "domaine":"D4",
+            "notions":{  
+               "Utiliser une calculatrice pour présenter les résultats":{  
+                  "Résoudre des problèmes (à 1 étape) avec des entiers (+;-;x)":1,
+                  "Résoudre des problèmes (à 1 étape)avec des décimaux (4 opérations)":2,
+                  "Résoudre des problèmes (à plusieurs étapes)avec des décimaux ":3,
+                  "Résoudre des problèmes avec des fractions simples":3
+               }
+            },
+            "Organiser et gérer des données":{  
+               "Lire et utiliser un graphique ou un tableau":1,
+               "Construire des diagrammes en bâtons et des tableaux":2,
+               "Identifier et résoudre un problème de proportionnalité simple(dont echelle)":2,
+               "Construire des graphiques cartésiens et circulaires":3,
+               "Identifier et résoudre un problème de proportionnalité complexe (dont %)":3
+            }
+         }
+      }
+   },
+   "Grandeurs & mesures":{  
+      "classe":"GM",
+      "citation":"Meziré y kass pa le bra",
+      "attendus":{  
+         "Comparer, estimer, mesurer des grandeurs":{  
+            "domaine":"D5",
+            "notions":{  
+               "Différencier aire/périmètre":{  
+                  "Conservation de l’aire lors d’un découpage, mais pas du périmètre":1,
+                  "Calculer le périmètre d’un polygone(sans formule)":1,
+                  "Comparer, classer des surfaces, suivant leurs aires(sans formule)":1,
+                  "Estimer le périmètre d’un cercle":2,
+                  "Calculer le périmètre d’un rectangle & carré (avec formule)":2,
+                  "Calculer l’aire d’un rectangle, d’un tri. rect. & carré (avec formule)":2
+               },
+               "Triangles et cercles":{  
+                  "Partition d’un polygone en triangle rectangle":2,
+                  "Calculer l’aire d’une figure complexe(dont les triangles)":3,
+                  "Calculer le périmètre et l’aire d’un disque":3
+               },
+               "Angles":{  
+                  "Identifier et comparer des angles avec gabarit":1
+               },
+               "En 3D":{  
+                  "Relier les unités de contenance et de volume 1L=1000cm3 ":2,
+                  "Comptage de cube unité, pour estimer un volume":2,
+                  "Formule du pavé droit":3
+               }
+            }
+         },
+         "Utiliser le lexique, les unités,et les instruments":{  
+            "domaine":"D1",
+            "notions":{  
+               "Multiples et sous-multiples des unités...":{  
+                  "... de contenances et des masses":1,
+                  "... de longueurs":2,
+                  "... d’aires":3,
+                  "... volume et contenance":3
+               },
+               "Nommer et classer des angles":{  
+                  "Identifier et comparer des angles avec des gabarits":1,
+                  "Plat, obtus, droit, aigus":2,
+                  "Utilisation du rapporteur, et notation conventionnelle":3
+               },
+               "lecture de l’heure":{  
+                  "Comprendre les relations unitaires":1,
+                  "Comparer des durées":2
+               }
+            }
+         },
+         "Résoudre des problèmes géométriques,physiques,économiques":{  
+            "domaine":"D5",
+            "notions":{  
+               "Résoudre des problèmes de comparaison(sans formule)":2,
+               "Résoudre des problèmes de comparaison (avec formule)":3,
+               "Calculer une durée":2,
+               "Déterminer un instant(initial ou final)":3
+            }
+         }
+      }
+   }
+}

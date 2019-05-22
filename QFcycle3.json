@@ -1,0 +1,14 @@
+{
+  "NC.1.1.1":{
+    "domaines":["D4","D5"],
+    "competences":["chercher","raisonner","modeliser"],
+    "question" : "1",
+    "correction" : "2"
+  },
+  "NC.1.2.1":{
+    "domaines":["D2","D3","D1"],
+    "competences":["representer","calculer","communiquer"],
+    "question" : "3",
+    "correction" : "4"
+  }
+}
